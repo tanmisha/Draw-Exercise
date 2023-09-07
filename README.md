@@ -1,3 +1,11 @@
+# Following files are added, modified
+
+The intial drawing data is provided in initialData.js
+Graph.js handles the drawing area and tools
+App.js - Create app component that includes Graph component
+Draw.css contains the styling for the app
+
+
 # React TypeScript STEM Sims Exercise
 
 This app was created for the STEM Sims Front-end Exercise.
