@@ -1,0 +1,27 @@
+.graph-container {
+  display: flex;
+  flex-direction: column;
+  height: 100vh; 
+}
+body
+{
+  height: 100vh; 
+}
+.left {
+  width: 50%; 
+  
+}
+.right{
+  width:50%;
+}
+.save-button {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  cursor: pointer;
+}
+.top
+{
+  display:flex;
+
+}
